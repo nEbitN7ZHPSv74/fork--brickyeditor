@@ -1,6 +1,9 @@
 {
   "name": "brickyeditor",
   "version": "0.8.4",
+  "engines": {
+    "node": "~14.21.3"
+  },
   "author": {
     "name": "George Yakovlev",
     "email": "yakovlev.ga@gmail.com",
